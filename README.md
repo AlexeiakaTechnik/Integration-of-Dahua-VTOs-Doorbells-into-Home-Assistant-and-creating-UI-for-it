@@ -1,2 +1,2 @@
-# Integration of Dahua VTOs(Doorbells) into Home Assistant and creating UI/Scripts/Automations for it.
+# Integration of Dahua VTOs(Doorbells) into Home Assistant and creating UI/Scripts/Automations for it.  (🚧UNDER CONSTRUCTION🚧)
 Article gets into details on how to utilize Dahua VTO's(Doorbells) in Home Assisant. How to configure integration, get calls, create practcal HA dashboard implementation of Incoming calls from Dahua Doorbell. Also my experience of trying 2-way audio with HA UI <-> Dahua VTO using go2rtc addon, some hacky ways of utilizing DMSS/DMSSHD apps with HA.
